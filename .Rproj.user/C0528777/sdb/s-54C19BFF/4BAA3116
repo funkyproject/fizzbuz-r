@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(testthat) \nsource(\"fizzbuzz.R\")\ntest_results <- test_dir(\"tests\", reporter=\"summary\")\n\n\n",
+    "created" : 1496827977143.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1066838961",
+    "id" : "4BAA3116",
+    "lastKnownWriteTime" : 1496828714,
+    "last_content_update" : 1496828714819,
+    "path" : "~/fizzbuzzR/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
